@@ -1,5 +1,5 @@
 //the serviceWorker
-var staticCacheName = 'carGameStatic-v2';
+var staticCacheName = 'carGameStatic-v3';
 
 
 self.addEventListener('install', function(event) {

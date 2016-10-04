@@ -270,7 +270,7 @@ input[type=range]:focus::-ms-fill-lower {
 input[type=range]:focus::-ms-fill-upper {
   background: #367ebd; }
 
-@media (max-width: 370px) and (orientation: portrait) {
+@media (max-width: 380px) and (orientation: portrait) {
   .images {
     height: 30px;
     width: 30px;
